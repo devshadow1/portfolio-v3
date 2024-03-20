@@ -8,14 +8,14 @@ export default function Document() {
       lang="en"
     >
       <Head>
-        {/* <title>pranjal ✦ developer, designer</title> */}
-        <meta name="title" content="pranjal ✦ developer, designer" />
-        <meta name="description" content="Developer // Designer // Weeb" />
+        {/* <title>compust developer, designer</title> */}
+        <meta name="title" content="c3n4p, developer, designer, cenap bozkurt, compust," />
+        <meta name="description" content="Developer // Designer // Web" />
 
         {/* <!-- Open Graph / Facebook --> */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://pranjalshikhar.vercel.app/" />
-        <meta property="og:title" content="pranjal ✦ developer, designer" />
+        <meta property="og:url" content="https://compust.com/" />
+        <meta property="og:title" content="compust developer, designer" />
         <meta
           property="og:description"
           content="Developer // Designer // Weeb"
@@ -29,11 +29,11 @@ export default function Document() {
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:url"
-          content="https://pranjalshikhar.vercel.app/"
+          content="https://twitter.com/c3n4p"
         />
         <meta
           property="twitter:title"
-          content="pranjal ✦ developer, designer"
+          content="compust developer, designer"
         />
         <meta
           property="twitter:description"
@@ -45,8 +45,8 @@ export default function Document() {
         />
 
         {/* whatsapp */}
-        <meta property="og:site_name" content="pranjal ✦ developer, designer" />
-        <meta property="og:title" content="pranjal ✦ developer, designer" />
+        <meta property="og:site_name" content="compust developer, designer" />
+        <meta property="og:title" content="compust developer, designer" />
         <meta
           property="og:description"
           content="Developer // Designer // Weeb"
@@ -59,12 +59,12 @@ export default function Document() {
         <meta property="og:type" content="website" />
 
         {/* canonical links */}
-        <link rel="canonical" href="https://pranjalshikhar.vercel.app/" />
+        <link rel="canonical" href="https://compust.com" />
         <link
           rel="search"
           href="/opensearch.xml"
           type="application/opensearchdescription+xml"
-          title="pranjal ✦ developer, designer"
+          title="compust developer, designer"
         />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
