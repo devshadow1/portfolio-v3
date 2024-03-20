@@ -19,7 +19,7 @@ const Contact = () => {
             target="_blank"
             className=" flex align-middle items-center font-jak font-bold space-x-1 w-max "
           >
-            <TfiTwitterAlt className="text-[#518FC7] dark:text-[#2498fe] h-3 w-3 md:h-4 md:w-4 " />
+            <TfiInstagram className="text-[#518FC7] dark:text-[#2498fe] h-3 w-3 md:h-4 md:w-4 " />
             <h5 className="text-transparent dark:text-[#2498fe]">
               compust
             </h5>
