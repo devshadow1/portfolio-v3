@@ -23,7 +23,7 @@ const ProjectCard = () => {
     },
     {
       id: 2,
-      image: kamui,
+      image: pokedex,
       title: "CoolBoutiques",
       description: "Woocommerce alt yapısı ile güçlendirilmiş, butik sayfası",
       link: "https://coolboutiques.com",
@@ -31,7 +31,7 @@ const ProjectCard = () => {
     },
     {
       id: 3,
-      image: pokedex,
+      image: kamui,
       title: "Pokedex",
       description: "Gotta Catch'em All. Explore your Pokemon",
       link: "https://pokedex-polly.netlify.app/",
