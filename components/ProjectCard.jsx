@@ -3,7 +3,7 @@ import Link from "next/link";
 
 import aizen from "@/public/work/aizen.png";
 import kamui from "@/public/work/kamui.jpg";
-import pokedex from "@/public/work/pokedex.jpg";
+import pokedex from "@/public/work/pokedex.png";
 import portfolio from "@/public/work/portfolio.jpg";
 import cryptohunter from "@/public/work/crypto-hunter.jpg";
 import redeye from "@/public/work/red-eye.jpg";
@@ -24,9 +24,9 @@ const ProjectCard = () => {
     {
       id: 2,
       image: kamui,
-      title: "Kamui",
-      description: "Kanban board for planner with superpowers",
-      link: "https://kamui-kanban.netlify.app/",
+      title: "CoolBoutiques",
+      description: "Woocommerce alt yapısı ile güçlendirilmiş, butik sayfası",
+      link: "https://coolboutiques.com",
       target: "_self",
     },
     {
