@@ -34,17 +34,15 @@ const Experience = () => {
             </h2>
           </div>
           <div className="basis-[30%] text-xs mt-3 font-out">
-            Years of Experience
+            Deneyim!
           </div>
         </div>
       </div>
       <div className="w-[80%] mx-auto">
         <div className="text-center max-w-2xl mx-auto tracking-normal leading-5 text-base sm:text-[1.1rem] lg:text-lg">
-          During these years of Frontend Development Experience, I have
-          developed a strong problem-solving and critical thinking skills, and
-          am able to quickly adapt to new technologies and methods of working.
-          Given are some skill-set that I have learned and am still actively
-          learning as days goes by
+        Frontend Geliştirme yolculuğum boyunca güçlü problem çözme ve eleştirel düşünme becerileri edindim. 
+        Yeni teknolojilere ve çalışma yöntemlerine hızla adapte olabiliyorum. Aşağıda paylaştığım beceri setlerini 
+        hem öğrendim hem de her gün geliştirmeye devam ediyorum
         </div>
         <div className="flex justify-center select-none space-x-8 items-center  my-4">
           <svg
@@ -71,23 +69,21 @@ const Experience = () => {
       <div className="flex flex-col relative space-y-16 md:space-y-10 lg:space-y-8 items-center">
         <div className="drop-shadow-2xl flex flex-col space-y-4 mx-6 md:mx-20 lg:mx-0 md:w-[70%] lg:w-[80%] max-w-2xl">
           <div className="mx-auto text-center font-bold font-deca text-2xl text-indigo-500 dark:text-[#4cc9f0]">
-            Development
+            Geliştirme
           </div>
           <div className="font-normal sm:text-[0.95rem] md:text-base text-center">
-            With a focus on React.js and Next.js centered tools, specialize in
-            crafting visually captivating and intuitively navigable websites.
-            Infusing each project with a touch of personality is my signature
-            touch.
+          React.js, Next.js, WordPress ve WooCommerce gibi araçlara odaklanarak, 
+          görsel açıdan etkileyici ve sezgisel gezinilebilir web siteleri oluşturmada uzmanım. 
+          Her projeye kişisel bir dokunuş katarak onlara benzersiz bir imza atıyorum.
           </div>
         </div>
         <div className="drop-shadow-xl flex flex-col space-y-4 mx-6 md:mx-20 lg:mx-0 md:w-[70%] lg:w-[80%] max-w-2xl rounded-[1.4rem] p-4 rounded-tl-none">
           <div className="mx-auto text-center font-deca font-bold text-2xl dark:text-[#d58357] text-orange-500">
-            Design
+            Tasarım
           </div>
           <div className="font-normal sm:text-[0.95rem] md:text-base text-center">
-            With an artistic flair and a vibrant palette of colors, a design
-            transcends into a masterpiece, beckoning the user to embark on a
-            journey through its purposeful and visually captivating elements.
+          Sanatsal bir dokunuş ve canlı renk paleti ile bir tasarım, 
+          kullanıcıyı amaçlı ve görsel olarak etkileyici unsurlarla dolu bir yolculuğa davet eden bir başyapıta dönüşür
           </div>
         </div>
         <div className="relative w-full h-80 transition duration-150 ease-out">
@@ -105,9 +101,8 @@ const Experience = () => {
       </div>
       <div className="w-[80%] max-w-2xl mx-auto">
         <div className="text-center font-normal mb-6 tracking-normal text-sm leading-5 sm:text-base lg:text-lg ">
-          That was a short information about the domain that I have previously
-          worked on. while you&apos;re at it, have a look at few chosen works
-          that i have created using above domain.
+        Önceki çalıştığım alan hakkında kısa bir bilgiydi.
+         Bu sırada, aşşağıda bahsettiğim adresi kullanarak oluşturduğum birkaç seçilmiş çalışmaya da göz atabilirsiniz
         </div>
         <div className="flex justify-center space-x-3 md:space-x-6 lg:space-x-8 items-center  my-4">
           <div className=" group border-blue-400 hover:bg-blue-400 text-blue-500 hover:text-white hover:drop-shadow-2xl rounded-md md:rounded-xl px-2 py-1 md:px-4 md:py-2 shadow-md drop-shadow-lg dark:bg-blue-400 dark:shadow-none dark:hover:shadow-white select-none dark:text-white shadow-blue-300">
@@ -116,7 +111,7 @@ const Experience = () => {
               className="flex items-center font-normal lg:font-bold space-x-2 text-sm md:text-base  "
             >
               <BsArrowUpRight className=" dark:stroke-white stroke-blue-400 stroke-2 group-hover:stroke-white " />
-              <p>Projects</p>
+              <p>Çalışmalar</p>
             </Link>
           </div>
         </div>

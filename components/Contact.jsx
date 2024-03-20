@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { TfiLinkedin, TfiTwitterAlt } from "react-icons/tfi";
+import { TfiLinkedin, TfiTwitterAlt, TfiInstagram } from "react-icons/tfi";
 import Rectangle from "../public/Rectangle.svg";
 
 const Contact = () => {
@@ -10,30 +10,29 @@ const Contact = () => {
           Say hi!
         </h2>
         <p className="text-sm md:text-md font-normal lg:text-lg xl:text-lg ">
-          If you have any queries or would like to discuss potential
-          opportunities, please don&apos;t hesitate to reach out to me using
-          given links.
+        Eğer herhangi bir sorunuz varsa veya potansiyel fırsatları tartışmak isterseniz, 
+        lütfen verilen bağlantıları kullanarak bana ulaşmaktan çekinmeyin.
         </p>
         <div className="grid grid-cols-2 text-[0.7rem] md:text-[0.85rem] lg:text-base gap-2 md:gap-3 lg:gap-4">
           <a
-            href="https://www.twitter.com/pranjalshikhar"
+            href="https://www.instagram.com/compust"
             target="_blank"
             className=" flex align-middle items-center font-jak font-bold space-x-1 w-max "
           >
             <TfiTwitterAlt className="text-[#518FC7] dark:text-[#2498fe] h-3 w-3 md:h-4 md:w-4 " />
             <h5 className="text-transparent dark:text-[#2498fe]">
-              pranjalshikhar
+              compust
             </h5>
           </a>
           <a
-            href="https://www.linkedin.com/in/pranjalshikhar"
+            href="https://www.linkedin.com/in/cenapbozkurt"
             target="_blank"
             rel="noopener noreferrer"
             className=" flex align-middle items-center font-jak font-bold space-x-1 w-max "
           >
             <TfiLinkedin className="text-[#CA6298] dark:text-[#ff339c] h-3 w-3 md:h-4 md:w-4 " />
             <h5 className="text-transparent dark:text-[#ff339c]">
-              pranjalshikhar
+              cenapbozkurt
             </h5>
           </a>
         </div>
