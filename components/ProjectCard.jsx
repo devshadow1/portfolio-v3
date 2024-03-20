@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import aizen from "@/public/work/aizen.jpg";
+import aizen from "@/public/work/aizen.png";
 import kamui from "@/public/work/kamui.jpg";
 import pokedex from "@/public/work/pokedex.jpg";
 import portfolio from "@/public/work/portfolio.jpg";
@@ -16,9 +16,9 @@ const ProjectCard = () => {
     {
       id: 1,
       image: aizen,
-      title: "Aizen",
-      description: "Create beautiful images and gifs of your source code",
-      link: "https://aizen.netlify.app/",
+      title: "MoleLeather",
+      description: "Woocommerce alt yapısı ile güçlendirilmiş, minimal deri cüzdan satış sayfası",
+      link: "https://moleleather.com",
       target: "_self",
     },
     {
