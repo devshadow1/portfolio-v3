@@ -12,7 +12,7 @@ const Experience = () => {
   const currentTheme = theme === "system" ? systemTheme : theme;
 
   const today = new Date();
-  const startDate = new Date(2022, 6);
+  const startDate = new Date(2020, 6);
   let diffYears = today.getFullYear() - startDate.getFullYear();
   let diffMonths = today.getMonth() - startDate.getMonth();
   if (
@@ -30,7 +30,7 @@ const Experience = () => {
           <div className="basis-[60%] text-5xl font-black ">
             <h2 className="text-border mt-1 ">
               {diffYears}
-              <sup className="text-lg">{`.${diffMonths + 2}`}</sup>
+              <sup className="text-lg">{`.${diffMonths + 1}`}</sup>
             </h2>
           </div>
           <div className="basis-[30%] text-xs mt-3 font-out">
