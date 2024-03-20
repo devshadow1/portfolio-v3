@@ -74,7 +74,9 @@ export default function Home() {
           </div>
           <div className="mt-12 text-base md:text-xl lg:text-xl xl:text-xl 2xl:text-xl">
             <p className="sm:leading-6 md:leading-6 lg:leading-8">
-            Merhaba! Ben Cenap, 20 yaşındayım ve Kültür Üniversitesi'nde Uçuş Harekat Yöneticiliği, Atatürk Üniversitesi'nde ise Sivil Hava Ulaştırma İşletmeciliği okuyorum. Web alanında uzmanlık belgem bulunmakla birlikte, profesyonel anlamda ve hobi olarak birçok web sitesi kurdum. Uçaklarla ilgili eğitimimle birlikte, dijital dünyada da kendimi geliştirdim. Web siteleri konusundaki bilgi birikimimi kullanarak, şirketlerin ve bireylerin online varlıklarını güçlendirmelerine yardımcı oluyorum. Yaratıcı çözümler üretmek, benim için sadece bir iş değil aynı zamanda bir tutku. Eğer siz de benimle çalışmak ve etkileyici bir web sitesine sahip olmak istiyorsanız, lütfen benimle iletişime geçin. İnternet dünyasında kendinizi daha güçlü hissetmek için buradayım!
+            Merhaba! Ben Cenap, 20 yaşında, Uçuş Harekat Yöneticiliği ve Sivil Hava Ulaştırma İşletmeciliği öğrencisiyim.
+             Web uzmanıyım ve yaratıcı çözümlerle şirketlerin ve bireylerin online varlıklarını güçlendiriyorum. 
+             Eğer etkileyici bir web sitesine ihtiyacınız varsa, benimle iletişime geçmekten çekinmeyin!
             </p>
           </div>
         </div>
