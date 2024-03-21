@@ -8,8 +8,8 @@ import Experience from "@/components/Experience";
 
 import { BsArrowUpRight } from "react-icons/bs";
 
-import Avatar_Black from "@/public/Avatar-black.png";
-import Avatar_White from "@/public/Avatar-black.png";
+import Avatar_Black from "./public/Avatar_Black.png";
+import Avatar_White from "./public/Avatar_Black.png";
 import BooBlack from "@/public/boo-black.svg";
 import BooWhite from "@/public/boo-white.svg";
 import Link from "next/link";
@@ -22,7 +22,7 @@ export default function Home() {
     console.clear();
     console.log.apply(console, [
       "%c Designed and Developed by Pranjal Shikhar %c %c🚀 %c\n",
-      
+
       "color: #fff; background: #8000ff; padding:5px 0;",
       "color: #fff; background: #242424; padding:5px 0 5px 5px;",
       "background: #242424; padding:5px 0",
