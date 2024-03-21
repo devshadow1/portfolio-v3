@@ -96,7 +96,7 @@ export default function About() {
                 />
               </span>{" "}
               Havacılık ilgili eğitimime ek olarak, web dünyasında kendimi geliştirerek harçlığımı çıkarmak amacıyla freelancer olarak çalışmaya başladım. 
-              Yaratıcı çözümler üretmek, benim için sadece bir iş değil aynı zamanda bir hobi. Etkileyici bir web site arıyorsanız Bionluk profilime göz atmayı unutmayınız.<br></br>{" "}
+              Yaratıcı çözümler üretmek, benim için sadece bir iş değil aynı zamanda bir hobi. Etkileyici bir web site arıyorsanız Bionluk profilime göz atmayı unutmayınız.{" "}
               <span className="inline-flex items-baseline">
                 <Image
                   src={Flash}
@@ -112,8 +112,8 @@ export default function About() {
 
             <p className="">
             Geri bildiriminizi, sorularınızı ve önerilerinizi memnuniyetle karşılıyorum. 
-            Eğer belirli bir sorunuz veya yorumunuz varsa, lütfen bana doğrudan şu e-posta adresinden ulaşın:<br></br>{" "}
-              <span className="text-red-700 font-bold">Gmail</span>{" "}
+            Eğer belirli bir sorunuz veya yorumunuz varsa, lütfen bana doğrudan sosyal medya hesaplarımdan ulaşın:<br></br>{" "}
+              <span className="text-red-700 font-bold">Gmail:</span>{" "}
               <a
                 onClick={() =>
                   navigator.clipboard.writeText("cenapbozkurtt@gmail.com")
@@ -124,7 +124,7 @@ export default function About() {
                 {" "}
                 cenapbozkurtt@gmail.com
               </a>{" "}<br></br>
-              {" "} <span className="text-blue-700 font-bold">LinkedIn</span>{" "}
+              {" "} <span className="text-blue-700 font-bold">LinkedIn:</span>{" "}
               <a
                 href="http://linkedin.com/in/cenapbozkurtt"
                 className=" underline underline-offset-4 decoration-2 decoration-purple-400 font-semibold dark:hover:text-purple-400 hover:text-purple-700 cursor-pointer select"
@@ -134,7 +134,7 @@ export default function About() {
                 {" "}
                 Cenap Bozkurt{" "}
               </a>{" "}<br></br>
-              <span className="text-orange-500 font-bold">Instagram</span>{" "}
+              <span className="text-orange-500 font-bold">Instagram:</span>{" "}
               <a
                 href="https://instagram.com/compust"
                 target="blank"
