@@ -79,7 +79,7 @@ export default function About() {
           <div className=" text-[0.92rem] text-base mx-12 font-light dark:text-white text-gray-900">
             <p className="mt-6 mb-12 font-normal">
             20 yaşındayım ve şu anda Kültür Üniversitesi nde Uçuş Harekat Yöneticiliği, 
-            Atatürk Üniversitesi nde ise Sivil Hava Ulaştırma İşletmeciliği bölümlerinde eğitim alıyorum. Web alanında uzmanlık belgem bulunuyor.<br></br>{" "}
+            Atatürk Üniversitesi nde ise Sivil Hava Ulaştırma İşletmeciliği bölümlerinde eğitim alıyorum. Web alanında uzmanlık belgem bulunuyor.{" "}<br></br><br></br>
               <span className="inline-flex items-baseline">
                 <Image
                   src={Rocket}
@@ -87,7 +87,7 @@ export default function About() {
                   className="self-center w-5 h-5 mx-1"
                 />
               </span>{" "}
-              profesyonel anlamda ve hobi olarak birçok web sitesi kurma deneyimim var. <br></br>{" "}
+              profesyonel anlamda ve hobi olarak birçok web sitesi kurma deneyimim var. {" "}
               <span className="inline-flex items-baseline">
                 <Image
                   src={Sparkles}
@@ -134,7 +134,6 @@ export default function About() {
                 {" "}
                 Cenap Bozkurt{" "}
               </a>{" "}<br></br>
-              Instagram hesabımından direkt mesaj atabilirsiniz.{" "}
               <span className="text-orange-500 font-bold">Instagram</span>{" "}
               <a
                 href="https://instagram.com/compust"
@@ -143,7 +142,7 @@ export default function About() {
                 className=" font-semibold underline underline-offset-4 decoration-2 decoration-purple-400 dark:hover:text-purple-400 hover:text-purple-700 cursor-pointer select "
               >
                 {" "}
-                @pranjal.fig{" "}
+                @compust{" "}
               </a>{" "}
             </p>
           </div>
