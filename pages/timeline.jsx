@@ -19,7 +19,7 @@ const Timeline = () => {
            Deneyimler
           </h2>
           <p className="mt-8 max-w-xl text-center md:w-[70%] mx-auto text-sm md:text-base lg:text-xl mb-2 px-2">
-          Şimdiye kadar gerçekleşen bazı çalışma noktaları ve önemli anların web görünümü. Daha fazla bilgiyi LinkedIn'de bulabilirsiniz.
+          Şimdiye kadar gerçekleşen bazı çalışma noktaları ve önemli anların web görünümü. Daha fazla bilgiyi LinkedIn üzerinden bulabilirsiniz.
           </p>
           <div className="select-none flex justify-center space-x-4 items-center mt-2 text-gray-400">
             <svg
