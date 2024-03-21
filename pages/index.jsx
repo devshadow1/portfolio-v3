@@ -8,8 +8,8 @@ import Experience from "@/components/Experience";
 
 import { BsArrowUpRight } from "react-icons/bs";
 
-import Avatar_Black from "@/public/Avatar-black.jpg";
-import Avatar_White from "@/public/Avatar-black.jpg";
+import Avatar_Black from "@/public/Avatar-black.svg";
+import Avatar_White from "@/public/Avatar-black.svg";
 import BooBlack from "@/public/boo-black.svg";
 import BooWhite from "@/public/boo-white.svg";
 import Link from "next/link";
