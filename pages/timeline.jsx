@@ -6,7 +6,7 @@ const Timeline = () => {
   return (
     <div className="px-10 sm:px-20 md:px-32 md:-mb-52 lg:mb-0 lg:px-60 mx-auto max-w-[75rem]">
       <Head>
-        <title>timeline ✦ pranjal</title>
+        <title>Deneyimler | compust</title>
         <link rel="icon" href="/Avatar-white.svg" />
       </Head>
       <main className="min-h-screen max-w-screen">
@@ -16,11 +16,10 @@ const Timeline = () => {
               "selection:text-black/40 dark:selection:text-white/40 bg-gradient-to-r from-teal-200 to-lime-200 bg-clip-text text-transparent items-center mx-auto text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-semibold"
             }
           >
-            Timeline
+           Deneyimler
           </h2>
           <p className="mt-8 max-w-xl text-center md:w-[70%] mx-auto text-sm md:text-base lg:text-xl mb-2 px-2">
-            The linear view of some milestones and notable moments that happened
-            so far. And you can always find more information on LinkedIn.
+          Şimdiye kadar gerçekleşen bazı çalışma noktaları ve önemli anların web görünümü. Daha fazla bilgiyi LinkedIn'de bulabilirsiniz.
           </p>
           <div className="select-none flex justify-center space-x-4 items-center mt-2 text-gray-400">
             <svg
