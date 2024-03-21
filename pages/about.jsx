@@ -78,8 +78,8 @@ export default function About() {
           <CategoryCard />
           <div className=" text-[0.92rem] text-base mx-12 font-light dark:text-white text-gray-900">
             <p className="mt-6 mb-12 font-normal">
-            20 yaşındayım ve şu anda Kültür Üniversitesi'nde Uçuş Harekat Yöneticiliği, 
-            Atatürk Üniversitesi'nde ise Sivil Hava Ulaştırma İşletmeciliği bölümlerinde eğitim alıyorum. Web alanında uzmanlık belgem bulunuyor.<br></br>{" "}
+            20 yaşındayım ve şu anda Kültür Üniversitesi nde Uçuş Harekat Yöneticiliği, 
+            Atatürk Üniversitesi nde ise Sivil Hava Ulaştırma İşletmeciliği bölümlerinde eğitim alıyorum. Web alanında uzmanlık belgem bulunuyor.<br></br>{" "}
               <span className="inline-flex items-baseline">
                 <Image
                   src={Rocket}
