@@ -10,8 +10,8 @@ import { BsArrowUpRight } from "react-icons/bs";
 
 import Avatar_Black from "@/public/Avatar-black.png";
 import Avatar_White from "@/public/Avatar-black.png";
-import BooBlack from "@/public/fliht.png";
-import BooWhite from "@/public/fliht.png";
+import BooBlack from "@/public/flight.png";
+import BooWhite from "@/public/flight.png";
 import Link from "next/link";
 
 export default function Home() {
