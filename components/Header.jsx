@@ -8,7 +8,7 @@ import Link from "next/link";
 
 import { MdOutlineLightMode, MdOutlineDarkMode } from "react-icons/md";
 
-import pranjal_header_black from "@/public/pranjal-header-black.png";
+import pranjal_header_black from "@/public/pranjal-header-black.svg";
 import pranjal_header_white from "@/public/pranjal-header-black.svg";
 
 const Header = () => {
